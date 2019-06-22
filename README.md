@@ -11,3 +11,6 @@ In this tutorial, we are going to learn how to use AJAX with Django to make web 
 4. Run Requirements.txt - `pip3 install -r requirements.txt`
 5. Run the Application - `python3 manage.py runserver`
 6. Go to - http://localhost:8000/simpleajax/
+
+We already have data in database SQLite
+If you put `huzaif` in username field it will give message 'User name Already Exists'
